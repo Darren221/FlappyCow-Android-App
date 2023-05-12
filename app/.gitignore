@@ -1,0 +1,4 @@
+/build
+
+# Do NOT disinclude the libs here!
+!/libs/*.jar
